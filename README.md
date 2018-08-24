@@ -1,2 +1,2 @@
 # Pkgj-Ex
-Pkgj con link directo de descarga integrteado para descargas directas desde el vita
+Pkgj con link directo de descarga integrado para descargas directas desde el vita
